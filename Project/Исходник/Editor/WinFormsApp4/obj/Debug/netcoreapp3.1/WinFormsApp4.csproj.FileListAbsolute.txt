@@ -1,0 +1,30 @@
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.exe
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.deps.json
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.json
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.Form1.resources
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfo.cs
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\Denis\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.genruntimeconfig.cache
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.exe
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.deps.json
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.json
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.dev.json
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.dll
+E:\Проект маме\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.pdb
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.AssemblyReference.cache
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.Form1.resources
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.GenerateResource.cache
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfoInputs.cache
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfo.cs
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.CoreCompileInputs.cache
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.dll
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.pdb
+E:\Проект маме\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.genruntimeconfig.cache
